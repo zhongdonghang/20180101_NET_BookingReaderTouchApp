@@ -73,7 +73,7 @@
     <SignManifests>false</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Logo.ico</ApplicationIcon>
+    <ApplicationIcon>app.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AMS.Mediaplayer.Caputre, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -225,6 +225,7 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="app.ico" />
     <Content Include="bin\Debug\AxInterop.WMPLib.dll" />
     <Content Include="bin\Debug\Interop.WMPLib.dll" />
     <Resource Include="bin\Debug\Video\默认图片.jpg" />

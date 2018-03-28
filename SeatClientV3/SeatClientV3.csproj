@@ -42,7 +42,8 @@
     <StartupObject>SeatClientV3.Program</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Logo.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.Expression.Controls, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
@@ -654,9 +655,6 @@
     <Resource Include="Resources\btnImg\warm.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Logo.ico" />
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="Lib\" />
     <Folder Include="Resources\SeatMap\" />
   </ItemGroup>
@@ -691,10 +689,16 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\Background\JuneberryWeiCharCode.jpg" />
+    <Resource Include="Resources\Background\JuneberryWeiCharCode1.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\Background\WeiCharCodeInfoBind.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Background\JuneberryWeiCharCode.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Logo.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
