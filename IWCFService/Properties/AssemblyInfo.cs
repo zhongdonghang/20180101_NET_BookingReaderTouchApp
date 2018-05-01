@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("IWCFService")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("南京智佰闻欣文化传媒有限公司")]
+[assembly: AssemblyCompany("广西楚惟软件科技有限公司")]
 [assembly: AssemblyProduct("IWCFService")]
-[assembly: AssemblyCopyright("Copyright © 2013 智佰闻欣")]
+[assembly: AssemblyCopyright("Copyright © 2018 楚惟科技")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
