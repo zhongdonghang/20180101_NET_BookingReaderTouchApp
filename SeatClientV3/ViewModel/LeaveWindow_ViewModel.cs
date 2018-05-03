@@ -19,7 +19,7 @@ namespace SeatClientV3.ViewModel
             }
             WindowLeft = ClientObject.ClientSetting.DeviceSetting.SystemResoultion.WindowSize.Location.X + (ClientObject.ClientSetting.DeviceSetting.SystemResoultion.WindowSize.Size.X - WindowWidth) / 2;
             WindowTop = ClientObject.ClientSetting.DeviceSetting.SystemResoultion.WindowSize.Location.Y + (ClientObject.ClientSetting.DeviceSetting.SystemResoultion.WindowSize.Size.Y - WindowHeight) / 2;
-            TiteleAd = ClientObject.TitleAdvert != null ? ClientObject.TitleAdvert.TextContent : "Juneberry提醒您";
+            TiteleAd = ClientObject.TitleAdvert != null ? ClientObject.TitleAdvert.TextContent : "楚惟科技提醒您";
         }
 
         /// <summary>
