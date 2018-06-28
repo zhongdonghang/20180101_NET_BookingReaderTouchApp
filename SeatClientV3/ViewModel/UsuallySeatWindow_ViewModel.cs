@@ -28,7 +28,7 @@ namespace SeatClientV3.ViewModel
             }
             else
             {
-                TitleAd = "Juneberry提醒您";
+                TitleAd = "楚惟科技提醒您";
             }
             for (int i = 0; i < 12; i++)
             {
